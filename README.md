@@ -31,3 +31,13 @@ uvicorn app.main:app --reload
 
 ## API Docs
 http://127.0.0.1:8000/docs
+
+## Highlevel Plan
+## System Architecture
+![Architecture](./Architecture rough layout 1.png)
+
+## Request Flow
+![Flow](./Request flow diagram.png)
+
+## Role Based Access Control
+![RBAC](./Access control layout 3.png)
